@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aysegul!
+# 👋 Hi, I’m Aysegul!
 - 👀 I’m interested in Front-end and Back-end technologies
 - 🌱 I’m currently learning Flutter, ReactJS, Go and Java
 - 💞️ I’m looking to collaborate on Front-and or Back-end works
